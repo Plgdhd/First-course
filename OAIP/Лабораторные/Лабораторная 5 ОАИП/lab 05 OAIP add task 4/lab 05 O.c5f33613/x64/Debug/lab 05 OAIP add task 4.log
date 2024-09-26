@@ -1,0 +1,5 @@
+﻿  addTask4.cpp
+H:\Программы на С++\Лабораторная 5 ОАИП\lab 05 OAIP add task 4\addTask4.cpp(4,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+H:\Программы на С++\Лабораторная 5 ОАИП\lab 05 OAIP add task 4\addTask4.cpp(13,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+H:\Программы на С++\Лабораторная 5 ОАИП\lab 05 OAIP add task 4\addTask4.cpp(14,9): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  lab 05 OAIP add task 4.vcxproj -> H:\Программы на С++\Лабораторная 5 ОАИП\lab 05 OAIP add task 4\x64\Debug\lab 05 OAIP add task 4.exe

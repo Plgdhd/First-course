@@ -1,0 +1,3 @@
+﻿lab02.obj : error LNK2005: main уже определен в HelloWorld.obj
+lab03.obj : error LNK2005: main уже определен в HelloWorld.obj
+H:\Программы на С++\Лабораторная 1\x64\Debug\Лабораторная 1.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

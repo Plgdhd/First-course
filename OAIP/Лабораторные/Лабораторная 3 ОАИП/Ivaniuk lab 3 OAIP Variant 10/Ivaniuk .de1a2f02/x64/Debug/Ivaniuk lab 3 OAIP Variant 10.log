@@ -1,0 +1,6 @@
+﻿  main.cpp
+H:\Программы на С++\Лабораторная 3 ОАИП\Ivaniuk lab 3 OAIP Variant 10\main.cpp(5,10): warning C4305: инициализация: усечение из "double" в "float"
+H:\Программы на С++\Лабораторная 3 ОАИП\Ivaniuk lab 3 OAIP Variant 10\main.cpp(6,10): warning C4305: инициализация: усечение из "double" в "float"
+H:\Программы на С++\Лабораторная 3 ОАИП\Ivaniuk lab 3 OAIP Variant 10\main.cpp(8,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+H:\Программы на С++\Лабораторная 3 ОАИП\Ivaniuk lab 3 OAIP Variant 10\main.cpp(9,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Ivaniuk lab 3 OAIP Variant 10.vcxproj -> H:\Программы на С++\Лабораторная 3 ОАИП\Ivaniuk lab 3 OAIP Variant 10\x64\Debug\Ivaniuk lab 3 OAIP Variant 10.exe
