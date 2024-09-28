@@ -1,0 +1,28 @@
+h1, h2, h3, h4, h5, h6 {
+    color: rgb(156, 39, 156);
+    font: Monotype Corsiva;
+}
+
+span {
+    color: rgb(201, 79, 79);
+    text-decoration: underline;
+}
+
+.pointOne {
+    color: rgb(191, 38, 71);
+    font: Times New Roman;
+    font-size: 18pt;
+}
+
+.pointTwo{
+    color: rgb(196, 196, 0);
+    font: Times New Roman;
+    font-size: 20pt
+}
+
+.pointThree{
+    color: rgb(60, 160, 60);
+    font: Times New Roman;
+    font-size: 22pt;
+} 
+

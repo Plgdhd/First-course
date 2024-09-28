@@ -10,9 +10,10 @@ void main() {
 	cin >> p;
 	cout << endl << "¬ведите вторую диагональ ромба: ";
 	cin >> q;
+	int a = sqrt(p * p + q * q) / 2;
 	int s1 = 0.5 * p * q; //площадь ромба
 	int s2 = 3.14 * pow(r, 2); //площадь окружности
-	if (s1 > s2 && p >= r && q >= r) {
+	if (r <= p * q / 4 / a) {
 		cout << endl <<  "Ўар пройдет";
 	}
 	else {
