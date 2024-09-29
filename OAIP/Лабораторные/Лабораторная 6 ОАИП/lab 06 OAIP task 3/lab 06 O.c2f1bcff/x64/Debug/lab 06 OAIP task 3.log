@@ -1,0 +1,4 @@
+﻿  task3.cpp
+H:\Программы на С++\Лабораторная 6 ОАИП\lab 06 OAIP task 3\task3.cpp(3,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+H:\Программы на С++\Лабораторная 6 ОАИП\lab 06 OAIP task 3\task3.cpp(10,8): warning C4305: +=: усечение из "double" в "float"
+  lab 06 OAIP task 3.vcxproj -> H:\Программы на С++\Лабораторная 6 ОАИП\lab 06 OAIP task 3\x64\Debug\lab 06 OAIP task 3.exe
