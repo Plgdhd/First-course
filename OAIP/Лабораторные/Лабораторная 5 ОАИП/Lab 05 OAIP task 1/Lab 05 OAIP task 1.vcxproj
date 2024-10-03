@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2e78ba39-ba19-4cd1-8acb-f23e789dca08}</ProjectGuid>
-    <RootNamespace>Lab05OAIPtask1</RootNamespace>
+    <ProjectGuid>{df3fb9b3-d8c6-40f3-bd7b-e1f5b210069d}</ProjectGuid>
+    <RootNamespace>lab05OAIPtask1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Task1.cpp" />
+    <ClCompile Include="lab 05 OAIP task 1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

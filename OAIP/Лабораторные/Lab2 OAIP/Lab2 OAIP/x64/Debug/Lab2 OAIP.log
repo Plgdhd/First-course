@@ -1,5 +1,0 @@
-﻿  Task7.cpp
-H:\Программы на С++\Lab2 OAIP\Task7.cpp(18,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-H:\Программы на С++\Lab2 OAIP\Task7.cpp(19,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-H:\Программы на С++\Lab2 OAIP\Task7.cpp(20,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
-  Lab2 OAIP.vcxproj -> H:\Программы на С++\Lab2 OAIP\x64\Debug\Lab2 OAIP.exe

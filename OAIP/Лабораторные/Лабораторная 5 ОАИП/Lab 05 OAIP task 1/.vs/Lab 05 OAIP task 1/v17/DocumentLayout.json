@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 5 \u041E\u0410\u0418\u041F\\Lab 05 OAIP task 1\\",
+  "WorkspaceRootPath": "H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 5 \u041E\u0410\u0418\u041F\\lab 05 OAIP task 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E78BA39-BA19-4CD1-8ACB-F23E789DCA08}|Lab 05 OAIP task 1.vcxproj|H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 5 \u041E\u0410\u0418\u041F\\Lab 05 OAIP task 1\\Task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2E78BA39-BA19-4CD1-8ACB-F23E789DCA08}|Lab 05 OAIP task 1.vcxproj|solutionrelative:Task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DF3FB9B3-D8C6-40F3-BD7B-E1F5B210069D}|lab 05 OAIP task 1.vcxproj|H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 5 \u041E\u0410\u0418\u041F\\lab 05 OAIP task 1\\lab 05 OAIP task 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF3FB9B3-D8C6-40F3-BD7B-E1F5B210069D}|lab 05 OAIP task 1.vcxproj|solutionrelative:lab 05 OAIP task 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Task1.cpp",
-              "DocumentMoniker": "H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 5 \u041E\u0410\u0418\u041F\\Lab 05 OAIP task 1\\Task1.cpp",
-              "RelativeDocumentMoniker": "Task1.cpp",
-              "ToolTip": "H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 5 \u041E\u0410\u0418\u041F\\Lab 05 OAIP task 1\\Task1.cpp",
-              "RelativeToolTip": "Task1.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAwBgAAAACAAAA",
+              "Title": "lab 05 OAIP task 1.cpp",
+              "DocumentMoniker": "H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 5 \u041E\u0410\u0418\u041F\\lab 05 OAIP task 1\\lab 05 OAIP task 1.cpp",
+              "RelativeDocumentMoniker": "lab 05 OAIP task 1.cpp",
+              "ToolTip": "H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 5 \u041E\u0410\u0418\u041F\\lab 05 OAIP task 1\\lab 05 OAIP task 1.cpp",
+              "RelativeToolTip": "lab 05 OAIP task 1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-19T13:46:17.523Z",
+              "WhenOpened": "2024-10-03T12:28:46.924Z",
               "EditorCaption": ""
             }
           ]
