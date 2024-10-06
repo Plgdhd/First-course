@@ -1,0 +1,32 @@
+.default{
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+    zoom: 75%; */
+}
+.tab1{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+tr.basic{
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+td.basic ~ td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 4px;
+}
+td.name{
+    border-collapse: collapse;
+    text-align: center;
+    vertical-align: top;
+}
+tr:first-child{
+    background-color: rgb(199, 124, 236);
+}
+td:first-child{
+    background-color: rgb(130, 243, 141);
+}
