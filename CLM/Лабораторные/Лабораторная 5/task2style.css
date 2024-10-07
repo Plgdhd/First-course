@@ -1,0 +1,38 @@
+table{
+    empty-cells: hide;
+    border-collapse:collapse;
+    margin: auto;
+}
+tr{
+    empty-cells: hide;
+    
+}
+
+th{
+    border: 3px solid grey;
+}
+
+.head ~ th{
+    background-color: #00BF;
+    color: white;
+    text-align: center;
+}
+.firstcol{
+    background-color: rgb(0, 195, 239);
+    border: 3px solid grey;
+    color: white;
+    text-align: center;
+    
+}
+.secondcol{
+    background-color: purple;
+    color: white;
+    border: 3px solid grey;
+    text-align: center;
+}
+.thirdcol{
+    background-color: green;
+    border: 3px solid grey;
+    color: white;
+    text-align: center;
+}
