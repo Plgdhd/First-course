@@ -1,0 +1,12 @@
+﻿  task3.cpp
+H:\Программы на С++\Лабораторная 6 ОАИП\lab 06 OAIP task 7 3\task3.cpp(3,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+H:\Программы на С++\Лабораторная 6 ОАИП\lab 06 OAIP task 7 3\task3.cpp(5,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+H:\Программы на С++\Лабораторная 6 ОАИП\lab 06 OAIP task 7 3\task3.cpp(5,44): warning C4305: инициализация: усечение из "double" в "float"
+H:\Программы на С++\Лабораторная 6 ОАИП\lab 06 OAIP task 7 3\task3.cpp(6,22): warning C4305: инициализация: усечение из "double" в "float"
+H:\Программы на С++\Лабораторная 6 ОАИП\lab 06 OAIP task 7 3\task3.cpp(6,55): warning C4305: инициализация: усечение из "double" в "float"
+H:\Программы на С++\Лабораторная 6 ОАИП\lab 06 OAIP task 7 3\task3.cpp(6,60): warning C4305: инициализация: усечение из "double" в "float"
+H:\Программы на С++\Лабораторная 6 ОАИП\lab 06 OAIP task 7 3\task3.cpp(6,65): warning C4305: инициализация: усечение из "double" в "float"
+H:\Программы на С++\Лабораторная 6 ОАИП\lab 06 OAIP task 7 3\task3.cpp(6,70): warning C4305: инициализация: усечение из "double" в "float"
+H:\Программы на С++\Лабораторная 6 ОАИП\lab 06 OAIP task 7 3\task3.cpp(11,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+H:\Программы на С++\Лабораторная 6 ОАИП\lab 06 OAIP task 7 3\task3.cpp(12,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lab 06 OAIP task 7 3.vcxproj -> H:\Программы на С++\Лабораторная 6 ОАИП\lab 06 OAIP task 7 3\x64\Debug\lab 06 OAIP task 7 3.exe
