@@ -1,0 +1,3 @@
+﻿  task1.cpp
+H:\First-course\OPI\Лабораторные\Лабораторная 4 OPI\lab 04 OPI task 1\task1.cpp(3,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab 04 OPI task 1.vcxproj -> H:\First-course\OPI\Лабораторные\Лабораторная 4 OPI\lab 04 OPI task 1\x64\Debug\lab 04 OPI task 1.exe

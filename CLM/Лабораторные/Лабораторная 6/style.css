@@ -19,12 +19,70 @@ span {
     font: Times New Roman;
     font-size: 20pt
 }
-.li1{
-    background-image: src="https://sun9-63.userapi.com/impg/CRGjEMGbOIamfkp6DrRHRXTKgBlkpA_ZltCayg/Ny9eX4a-EzY.jpg?size=1280x720&quality=95&sign=1eb3370708e3a61b5a4383ff0454afc2&c_uniq_tag=GXqQmg29WT7-IaU0vJm_44p06E0JwWjzcqWlCE4YxfM&type=album" ;
+ul li{
+    list-style-type: none;
+    background-image: url(images/i.webp);
+    background-size: 25px 30px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+    background-position: 0 50%;
+
+}
+.header{
+    text-align: center;
+}
+
+.tableB{
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+tr td{
+    border: 2px solid black;
+}
+.fit{
+    background-image: url(images/fit.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 200px 200px;
+    background-position: right top;
+    width: 200px;
+    height: 200px;
 }
 .pointThree{
     color: rgb(60, 160, 60);
     font: Times New Roman;
     font-size: 22pt;
 } 
+
+.first{      
+    height: 300px;
+    width: 300px;     
+    float: left;
+}
+
+.second{
+    height: 300px;
+    width: 300px;
+    float: right;
+}
+
+.text{
+    margin: 0px;
+}
+
+.task2 div p{
+    border: 1px solid black; 
+
+}
+
+.task2 div p::first-line{ 
+    margin-bottom: 5px;
+}
+
+.image1{
+    background-image: url(images/xiaomi.webp);
+}
+.image2{
+    background-image: url(images/samsung.webp);
+}
 

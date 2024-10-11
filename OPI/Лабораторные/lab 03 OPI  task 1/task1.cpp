@@ -20,11 +20,11 @@ void main() {
 	int number = 0x12345678;
 	char hello[] = "Hello, ";
 	char lfie[] = "IvaniukAlexei2007";
-	char rfie[] = "ИванюкАлексей2007";
+	char rfie[] = "ИванюкАлексейАндреевич2007";
 	char lr[] = "Иванюк2007Alexei";
 
 	wchar_t Lfie[] = L"IvaniukAlexei2007";
-	wchar_t Rfie[] = L"ИванюкАлексей2007";
+	wchar_t Rfie[] = L"ИванюкАлексейАндреевич2007";
 	wchar_t LR[] = L"Иванюк2007Alexei";
 
   	cout << hello << lfie << endl;
