@@ -1,0 +1,27 @@
+.first{
+    background-image: linear-gradient(to bottom, blue 20%, purple 40%, purple 60%, red 100%);
+}
+.second{
+    background-image: repeating-linear-gradient(45deg, red 0px 5px, blue 5px 10px)
+}
+.third{
+    background-image: radial-gradient(rgb(208, 255, 0), rgb(14, 107, 0))
+}
+.fourth{
+    background-image: repeating-radial-gradient( rgb(28, 149, 3) 0px 9px, rgb(200, 255, 0)9px 16px );
+}
+.fifth{
+    background-image: radial-gradient(circle at 50% 50%, rgb(240, 244, 0), rgb(3, 150, 3), transparent),
+    linear-gradient(blue, rgb(255, 34, 255));
+}
+div{
+    display: inline-block;
+    border: 2px solid black;
+    padding: 50px;
+}
+
+body{
+    text-align: center;
+}
+
+

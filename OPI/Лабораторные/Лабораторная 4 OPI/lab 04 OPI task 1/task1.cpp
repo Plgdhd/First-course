@@ -119,6 +119,8 @@ void main() {
 				}
 			}
 			break;
+		case 4:
+			return;
 		default:
 			cout << "Неверное значение!\n";
 			break;

@@ -1,0 +1,20 @@
+a{
+    text-decoration: underline;
+}
+
+.rows{
+    display: inline-block;
+}
+
+.cols{
+    display: block;
+}
+.images{
+    height: 200px;
+    width: 200px;
+}
+figure{
+    text-align: center;
+}
+
+

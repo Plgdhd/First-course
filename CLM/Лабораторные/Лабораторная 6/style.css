@@ -36,17 +36,15 @@ ul li{
     border-collapse: collapse;
     border: 2px solid black;
 }
-tr td{
+.firsttr td{
     border: 2px solid black;
 }
 .fit{
     background-image: url(images/fit.jpg);
     background-repeat: no-repeat;
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-size: 200px 200px;
     background-position: right top;
-    width: 200px;
-    height: 200px;
 }
 .pointThree{
     color: rgb(60, 160, 60);
@@ -54,10 +52,9 @@ tr td{
     font-size: 22pt;
 } 
 
-.first{      
-    height: 300px;
-    width: 300px;     
-    float: left;
+.images{      
+    text-align: center;
+    border: solid
 }
 
 .second{
@@ -68,21 +65,12 @@ tr td{
 
 .text{
     margin: 0px;
+    text-align: left;
+    border: solid black;
 }
 
-.task2 div p{
-    border: 1px solid black; 
-
+.table3{
+    margin-top: 100px;
 }
 
-.task2 div p::first-line{ 
-    margin-bottom: 5px;
-}
-
-.image1{
-    background-image: url(images/xiaomi.webp);
-}
-.image2{
-    background-image: url(images/samsung.webp);
-}
 
