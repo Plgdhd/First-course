@@ -1,0 +1,7 @@
+﻿  task1.cpp
+H:\Программы на С++\Лабораторная 7 ОАИП\lab 07 OAIP task1\task1.cpp(2,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  lab 07 OAIP task1.vcxproj -> H:\Программы на С++\Лабораторная 7 ОАИП\lab 07 OAIP task1\x64\Release\lab 07 OAIP task1.exe
