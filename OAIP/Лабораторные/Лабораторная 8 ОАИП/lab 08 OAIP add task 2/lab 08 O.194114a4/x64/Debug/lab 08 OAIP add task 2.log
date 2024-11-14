@@ -1,0 +1,3 @@
+﻿  addTask2.cpp
+H:\Программы на С++\Лабораторная 8 ОАИП\lab 08 OAIP add task 2\addTask2.cpp(3,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab 08 OAIP add task 2.vcxproj -> H:\Программы на С++\Лабораторная 8 ОАИП\lab 08 OAIP add task 2\x64\Debug\lab 08 OAIP add task 2.exe

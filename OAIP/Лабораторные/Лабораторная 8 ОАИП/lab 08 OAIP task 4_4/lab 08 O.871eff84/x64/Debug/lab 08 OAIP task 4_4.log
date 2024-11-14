@@ -1,0 +1,6 @@
+﻿  task4_4.cpp
+H:\Программы на С++\Лабораторная 8 ОАИП\lab 08 OAIP task 4_4\task4_4.cpp(4,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+H:\Программы на С++\Лабораторная 8 ОАИП\lab 08 OAIP task 4_4\task4_4.cpp(5,23): warning C4305: инициализация: усечение из "double" в "const float"
+H:\Программы на С++\Лабораторная 8 ОАИП\lab 08 OAIP task 4_4\task4_4.cpp(5,28): warning C4305: инициализация: усечение из "double" в "const float"
+H:\Программы на С++\Лабораторная 8 ОАИП\lab 08 OAIP task 4_4\task4_4.cpp(6,10): warning C4305: инициализация: усечение из "double" в "float"
+  lab 08 OAIP task 4_4.vcxproj -> H:\Программы на С++\Лабораторная 8 ОАИП\lab 08 OAIP task 4_4\x64\Debug\lab 08 OAIP task 4_4.exe
