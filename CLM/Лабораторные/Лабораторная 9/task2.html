@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Задание 2</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Geologica:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+        .grid-container{
+            display: grid;
+            grid-template-columns: 20% 20% 20% 20% 20%;
+            grid-template-rows: 25% 25% 25% 25%;
+            font-family: "Montserrat";
+            height: 630px;
+            grid-gap: 5px;
+            width: 97%;
+        }
+        .grid-container>div {
+            border: 1px solid black;
+            transition: transform .2s ease-in-out, z-index .2s ease-in-out;
+        }
+        .item-9{
+            grid-column: 4/6;
+            grid-row: 2/4;
+            display: flex;
+            float: left;
+            background-color: lightgray;
+        }
+        .item-10{
+            grid-column: 1/3;
+            grid-row: 3/5;
+            background-color: lightgray;
+        }
+        .grid-container>div:hover{
+            transform: scale(1.25);
+            z-index: 1;
+        }
+        .grid-container>div{
+            display: flex;
+            justify-content: center;
+        }
+        p {
+            position: absolute;
+            margin-top: 5px;
+            font-weight: 700;
+            color: white;
+            text-shadow: black 0px 0px 5px;
+            overflow:visible;
+        }
+        img {
+            display: flex;
+            justify-content: center;
+            height: 100%;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="grid-container">
+        <div class="item-1"><img src="images/asta.webp"><p>Изображение 1</p></div>
+        <div class="item-2"><img src="images/jotaro.webp"><p>Изображение 2</p></div>
+        <div class="item-3"><img src="images/chopper5.webp"><p>Изображение 3</p></div>
+        <div class="item-4"><img src="images/gojo.webp"><p>Изображение 4</p></div>
+        <div class="item-5"><img src="images/kamina.webp"><p>Изображение 5</p></div>
+        <div class="item-6"><img src="images/i (2).webp"><p>Изобрежение 6</p></div>
+        <div class="item-7"><img src="images/ichigo.webp"><p>Изображение 7</p></div>
+        <div class="item-8"><img src="images/fit.jpg"><p>Изображение 8</p></div>
+        <div class="item-9"><img src="images/gojo-vs-sukuna-satoru-gojo.gif"></div>
+        <div class="item-10"><img src="images/thorphin.webp"></div>
+        <div class="item-11"><img src="images/gon.webp"><p>Изображение 9</p></div>
+        <div class="item-12"><img src="images/luffy5.webp"><p>Изображение 10</p></div>
+        <div class="item-13"><img src="images/zoro.webp"><p>Изображение 11</p></div>
+        <div class="item-14"><img src="images/onidzuka.webp"><p>Изображение 12</p></div>
+    </div>
+</body>
+</html>

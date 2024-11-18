@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Задание 3</title>
+</head>
+<style>
+    *{
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    }
+    .grid-container{
+        display: grid;
+        grid-template-areas: 
+        'menu head head head head'
+        'menu main main main side'
+        'foot foot foot foot foot';
+        grid-gap: 2px;
+    }
+    header{
+        grid-area: head;
+        border: 1px black solid;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 5px;
+        background-color: #dedede;
+    }
+    nav {
+        grid-area: menu;
+        border: 1px black solid;
+        padding: 5px;
+        border-radius: 5px;
+        background-color: #b5b5b5;
+    }
+    article{
+        grid-area: main;
+        border: 1px black solid;
+        border-radius: 5px;
+        padding: 5px;
+        background-color: #ebe8e8;
+    }
+    aside {
+        grid-area: side;
+        border: 1px black solid;
+        border-radius: 5px;
+        padding: 5px;
+        background-color: #ebe8e8;
+    }
+    footer{
+        display: flex;
+        height: 50px;
+        grid-area: foot;
+        border: 1px black solid;
+        align-items: center;
+        justify-content: center;
+        border-radius: 5px;
+        background-color: #b5b5b5;
+    }
+    ul li {
+        list-style: none;
+        margin-left: -40px;
+        margin-bottom: 15px;
+    }
+    ul li a{
+        color: black;
+        text-decoration: none;
+        border: 1px black solid;
+        border-radius: 5px;
+    }
+    ul li a:hover{
+        color: red;
+        border-color: red;
+    }
+</style>
+<body>
+    <div class="grid-container">
+        <header>Голова</header>
+        <nav>
+            <ul>
+                <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/grid">MDN Web Docs</a></li>
+                <li><a href="https://www.freecodecamp.org/">FreeCodeCamp</a></li>
+                <li><a href="https://css-tricks.com/snippets/css/complete-guide-grid/">CSS Tricks</a></li>
+            </ul>
+        </nav>
+        <article>Backend-разработчик — это специалист, который отвечает за работу "внутренней части" веб-приложений. Если фронтенд — это то, что видит пользователь, то бэкенд — это то, что остается за кадром: обработка данных, логика приложения, работа с базами данных и взаимодействие с внешними сервисами.
+
+            Основная задача backend-разработчика — обеспечить стабильную и эффективную работу серверной части приложения. Он разрабатывает API, настраивает серверы, проектирует базы данных и пишет код, который выполняет бизнес-логику. Например, когда пользователь заполняет форму на сайте и нажимает "Отправить", бэкенд обрабатывает запрос, сохраняет данные в базе и возвращает ответ.
+            
+            Для работы backend-разработчику нужны глубокие знания языков программирования, таких как Python, Java, PHP, Ruby, Go или C#. Также он должен понимать принципы работы веб-серверов (например, Nginx, Apache), быть знакомым с базами данных (SQL и NoSQL), уметь проектировать архитектуру приложений и знать протоколы взаимодействия, такие как HTTP, WebSocket или gRPC.</article>
+        <aside>content aside</aside>
+        <footer>Иванюк Алексей, ФИТ 1-9-1, БГТУ</footer>
+    </div>
+</body>
+</html>
