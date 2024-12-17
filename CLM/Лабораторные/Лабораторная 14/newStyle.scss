@@ -1,0 +1,55 @@
+body{
+    h1, h2, h3 {
+        font-family: 'Monotype Corsiva';
+        color: #eccd00;
+        text-align: center;
+        }
+    
+        h2, h3 {
+        font-size: 20pt;    
+        }
+    
+        p {
+            font-family: arial;
+            font-size: 16pt;
+        }
+            
+            table {
+            border-collapse: collapse;
+            width: 100%;
+            }
+            
+            tr, td {
+            padding: 8px; 
+            text-align: left;
+            color: brown;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            }
+            
+            table, th, td {
+            border: 1px solid black;
+            }
+            caption {
+            font-family: Arial, Helvetica, sans-serif;   
+            }
+            circle:hover {
+                r: 55;
+                fill: rgb(39, 170, 241);
+                color: white;
+              }
+            circle:hover {
+                r: 55;     
+                fill: rgb(39, 170, 241);
+                color: white;
+              }
+              .circle-text {
+                fill: white; 
+                font-size: 26px; 
+                font-weight: bold;
+                transition: font-size 0.2s ease-in;
+                pointer-events: none;
+              }
+              a:hover .circle-text {
+                font-size: 36px; 
+              }
+        }

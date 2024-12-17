@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Задание 1</title>
+    <style>
+        .container{
+            display: flex; 
+            flex-flow: row wrap; 
+            align-content: space-between; 
+            align-items: center; 
+            justify-content: center;
+            border: 1px solid black;
+
+
+        }
+        .div1 { 
+            order: 1; 
+            align-self: flex-end; 
+        } 
+        .div2{
+            order: 2;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="div1"> Заголовок</div>
+        <div class="div2"> Ячейка</div>
+    </div>
+</body>
+</html>

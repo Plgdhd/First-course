@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="task2XSLT.xsl"?>
+<students>
+    <student>
+        <name>Портгас Ди Эйс</name>
+        <grade>5</grade>
+    </student>
+    <student>
+        <name>Сатору Годжо</name>
+        <grade>8</grade>
+    </student>
+    <student>
+        <name>Хината Сёё</name>
+        <grade>4</grade>
+    </student>
+    <student>
+        <name>Кен Канеки</name>
+        <grade>2</grade>
+    </student>
+    <student>
+        <name>Криштиану Роналду</name>
+        <grade>6</grade>
+    </student>
+    <student>
+        <name>Хаткевич Constантин</name>
+        <grade>9</grade>
+    </student>
+    <student>
+        <name> Торфинн Карлсефни </name>
+        <grade>7</grade>
+    </student>
+</students>

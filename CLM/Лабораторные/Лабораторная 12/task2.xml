@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="forXML.css"?>
+<!DOCTYPE store [
+  <!ELEMENT store (header, head, item+)>
+  <!ELEMENT header (#PCDATA)>
+  <!ELEMENT head (ntitle, nprice)>
+  <!ELEMENT ntitle (#PCDATA)>
+  <!ELEMENT nprice (#PCDATA)>
+  <!ELEMENT item (title, price)>
+  <!ELEMENT title (#PCDATA)>
+  <!ELEMENT price (#PCDATA)>
+
+  <!ENTITY rouble "рублей">
+  <!ENTITY dollar "долларов">
+]>
+<store>
+  <header>DNS</header>
+  <head>
+    <ntitle>Товар</ntitle>
+    <nprice>Цена</nprice>
+  </head>
+  <item>
+    <title>RTX 2024ti</title>
+    <price>10 &rouble;</price>
+  </item>
+  <item>
+    <title>Процессор intel ponos 9400F</title>
+    <price>300 &dollar;</price>
+  </item>
+  <item>
+    <title>Клавиатура chernik 17</title>
+    <price>500 &rouble;</price>
+  </item>
+  <item>
+    <title>Игровая мышь Beloded ultra</title>
+    <price>900 &dollar;</price>
+  </item>
+  <item>
+    <title>Наушники undefined</title>
+    <price>30 &rouble;</price>
+  </item>
+</store>

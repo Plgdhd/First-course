@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title>FormTest</title>
+    <link rel="stylesheet" href="task2.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <div class="form-container" name="main" id="main">
+        <form name="student-form" id="student-form">
+            <div>
+            <div class="fit"> <a href="https://it.belstu.by/"><img src="/images/fit.jpg"/>  </a></div>
+            <h3>Данные студента</h3>
+            </div>
+            <div class="form-group">
+                <label>Имя студента</label>
+                <input class="input" type="text" id="name" placeholder="обязательно заполнить" required/>
+            </div>
+            <div class="form-group">
+                <label>Отчество студента</label>
+                <input class="input" type="text" id="father"placeholder="обязательно заполнить" required/>
+            </div>
+            <div class="form-group">
+                <label>Фамилия студента</label>
+                <input class="input" id="surname" type="text" placeholder="обязательно заполнить" required/>
+            </div>
+            <div class="form-group">
+                <label>Адрес почты</label>
+                <input class="input" id="email" type="email" placeholder="chernikloxFIT19@gmail.com"/>
+            </div>
+            <div class="form-group">
+                <label>Контактный номер</label>
+                <input class="input" id="number" type="tel" placeholder="+375 (___) ___-__-__"/>
+            </div>
+            <div class="form-group">
+                <label>Социальные сети</label>
+                <div id="checkers" class="checkbox-group">
+                    <div id="checkers" class="checkbox-group">
+                        <label><input type="checkbox" value="VK" name="social-network"/> VK</label>
+                        <label><input type="checkbox" value="Facebook" name="social-network"/> Facebook</label>
+                        <label><input type="checkbox" value="Instagram" name="social-network"/> Instagram</label>
+                    </div>                    
+                </div>
+            </div>
+            <div class="form-list">
+                <label> Ваш факультет</label>
+                <select name="faculty" id="faculty">
+                    <option>-- Выберите факультет --</option>
+                    <option> ФИТ</option>
+                    <option> ЛИД</option>
+                    <option> ИЭФ</option>
+                </select>
+            </div>
+            <div class="form-list">
+                <label> Ваш курс</label>
+                <select name="course" id="course"> 
+                    <option> -- Выберите курс --</option>
+                    <option> 1</option>
+                    <option> 2</option>
+                    <option> 3</option>
+                    <option> 4</option>
+                </select>
+            </div> 
+            <div class="form-list">
+                <label> Ваша группа</label>
+                <select name="group" id="group">
+                    <option>-- Выберите группу --</option>
+                    <option>1</option>
+                    <option>2</option>    
+                    <option>3</option> 
+                    <option>4</option>
+                    <option>5</option>
+                    <option>6</option>
+                    <option>7</option>
+                    <option>8</option>
+                    <option>9</option>
+                    <option>10</option>              
+                </select>
+            </div>
+            <div class="form-group">
+                <input class="submit-button" type="submit" name="submit" id="submit" value="Отправить">
+            </div>
+        </form>
+    </div>
+    <footer>
+    </footer>
+    <script src="script2.js"></script>
+</body>
+</html>
+

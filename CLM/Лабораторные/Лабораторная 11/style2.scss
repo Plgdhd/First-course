@@ -1,0 +1,218 @@
+@import url(/perem.sass);
+@function function($size, $scale){
+  @if $size>15px{
+    @return $size*$scale;
+  }
+  @else{
+    @return  $size;
+  }
+}
+@mixin element1{
+  flex: 1;
+  height: 100px;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h3 {
+  position: relative;
+  bottom: 20px;
+}
+a{
+  text-decoration: none;
+  color: #020202;
+}
+form {
+  margin: 0;
+}
+
+body {
+  background-color: $white1;
+}
+
+.container {
+  display: flex;
+  flex: column wrap;
+  gap: 10px;
+  margin: 0;
+  background-color: #0b112c;
+  text-align: center;
+  justify-content: center;
+}
+.container .element1 {
+  @include element1();
+}
+.container .element2 {
+  flex: 1;
+  margin: 30px 20px;
+  padding: 10px 40px 20px 40px;
+  border: solid 2px $red1;
+  border-radius: 40px;
+  background-color: #fa8603;
+  box-shadow: 5px 5px 5px $red1;
+  font-weight: bold;
+  font-family: 'RubikMonoOne-Regular bold';
+  src: url(/fonts/RubikMonoOne-Regular.ttf) format('woff');
+}
+.container .element2:hover {
+  transform: scale(1.1);
+}
+
+main {
+  margin-top: 10px;
+  height: 100px;
+}
+main .div1 {
+  display: inline-block;
+  width: 70%;
+  position: relative;
+  left: 20px;
+}
+
+.div2 {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  width: 25%;
+  margin-left: 10px;
+  padding: 10px;
+  position: relative;
+  bottom: 210px;
+  left: 40px;
+}
+
+.header {
+  border: 1px solid black;
+  text-align: center;
+  font-size: 60px;
+  padding: 10px;
+  background-color: #fa8a22;
+  border-radius: 10px;
+  border: 3px solid $orange1;
+  font-weight: bold;
+  color: rgb(255, 250, 243);
+}
+
+.formHead {
+  font-weight: 700;
+  margin: 0;
+  padding: 0;
+  background-color: #0b112c;
+  border: 3px solid $orange1;
+  color: rgb(255, 170, 0);
+  text-align: center;
+  vertical-align: top;
+  position: relative;
+  top: 20px;
+  padding: 40px 20px 30px 20px;
+  margin-bottom: 10px;
+}
+
+.container2 {
+  display: flex;
+  flex: column wrap;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  justify-content: space-between;
+  gap: 50px;
+}
+.container2 .square {
+  flex: 1;
+  font-size: function(60px, 0.3);
+  background-color: #fbbc30;
+  border: 1px solid black;
+  text-align: center;
+  width: 100px;
+  height: 200px;
+  vertical-align: center;
+  overflow: scroll;
+}
+
+.container3 {
+  display: flex;
+  flex: column wrap;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  justify-content: space-around;
+  gap: 50px;
+}
+.container3 .square1 {
+  border-radius: 20px;
+  margin: 20px;
+  flex: 1 0;
+  border: 1px solid black;
+  height: 200px;
+  width: 100px;
+}
+
+.grid {
+  justify-content: center;
+  display: grid;
+  grid-template-columns: 100px 270px;
+  grid-template-rows: repeat(2, 100px);
+  gap: 1px;
+  margin-top: 20px;
+  width: 370px;
+  border-radius: 20px;
+  border: 5px solid #fa8a22;
+  position: relative;
+  top: 30px;
+}
+
+.image {
+  margin: 10px 10px 10px 20px;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  border: 3px solid #f63500;
+  width: 80px;
+  height: 80px;
+  border-radius: 20px;
+}
+
+.image:hover {
+  transform: scale(1.1);
+}
+
+.text {
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  border: 1px solid #000;
+  background-color: #fbbc30;
+  border: 3px solid #b34405;
+  color: $white1;
+}
+
+footer {
+  margin-top: 100px ;
+  border: 1px solid black;
+  position: relative;
+  top: 490px;
+  height: 100px;
+  background-color: $orange1;
+  color: $white1;
+  justify-content: center;
+  vertical-align:middle;
+}
+
+td {
+  text-align: left;
+}
+
+.headerForm {
+  border: 3px solid $orange1;
+  text-align: center;
+  padding: 10px;
+  background-color: $orange1;
+  position: relative;
+  top: 20px;
+  border-radius: 30px;
+}
+
+input {
+  background-color: $white1;
+}/*# sourceMappingURL=style2.css.map */

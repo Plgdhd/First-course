@@ -1,0 +1,6 @@
+.gallery-element > label {
+    color: green;
+}
+.gallery-element{
+    border: 1px green solid;
+}

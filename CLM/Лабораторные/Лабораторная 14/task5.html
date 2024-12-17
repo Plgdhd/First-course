@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gear Fifth!</title>
+    <style>
+        @keyframes scaleOpacity {
+            0% { opacity: 0; }
+            50% { opacity: 1; }
+            100% {opacity: 0; }
+        }
+
+        .animated1 {
+            animation: scaleOpacity 3s infinite;
+        }
+        @keyframes scalerSize1 {
+            0%{ r: 10; fill: rgb(228, 38, 79);}
+            50%{ r: 20; fill: rgb(88, 88, 218)}
+            100%{r:10; fill: rgb(228, 38, 79)}   
+        }
+        .animated2{
+            animation: scalerSize1 3s infinite
+        }
+        @keyframes scalerSize2 {
+            0%{ r: 10; fill: rgb(63, 229, 254);}
+            50%{ r: 15; fill: rgb(255, 132, 0)}
+            100%{r:10; fill: rgb(238, 0, 255)}   
+        }
+        .animated3{
+            animation: scalerSize2 5s infinite
+        }
+
+        polygon:hover{
+            fill: url(#gradient);
+        }
+
+        ellipse:active{
+            fill: rgb(24, 158, 236);
+        }
+
+        @keyframes draw-border {
+            from {
+                stroke-dasharray: 0, 400;
+            }
+            to {
+                stroke-dasharray: 400, 0;
+            }
+        }
+
+        rect {
+            stroke: black;
+            stroke-width: 4;
+            stroke-dasharray: 0, 400;
+            animation: draw-border 2s infinite;
+        }
+
+        circle:hover{
+            stroke: rgb(252, 151, 0);
+            stroke-width: 4px;
+        }
+    </style>
+</head>
+<body>
+    <svg width="2000" height="3000" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+            <linearGradient id="gradient" x1="0" y1="0" x2="0" y2="1">
+                <stop offset="0%" stop-color="green" />
+                <stop offset="100%" stop-color="orange" />
+            </linearGradient>
+        </defs>
+
+        <path id="textPath" 
+              d="M 100 100 C 100 100, 0 300, 500 200" 
+              fill="transparent" 
+              stroke="purple" 
+              stroke-width="1"
+        />
+        <text fill="grey" font-size="36" text-anchor="middle">
+              <textPath class="animated1" href="#textPath" startOffset = "50%">
+                разместить текст вдоль
+              </textPath>
+        </text>
+
+        <circle cx="100" cy="300" r="50" fill="blue"/>
+        <rect x="175" y="250" width="150" height="100" fill="red"/>
+        <ellipse cx="445" cy="300" rx ="100" ry="50" fill="green"/>
+        <polygon points="550,350 600,250 650,350" fill="yellow" />
+        <polyline points="50 375, 375 375,275 425, 675 425" fill="none" stroke="black" stroke-width="2" stroke-linecap="round"/>
+
+        <path d="M 100 570 L 50 650 L 80 650 L 30 700 L 85 700 L 85 720 L 115 720 L 115 700 L 170 700 L 120 650 L 150 650 Z" 
+        fill="green" stroke="black" stroke-width="2" />
+  <circle cx="100" cy="560" r="10 "fill="yellow" stroke="black" class="animated1"/>
+  <circle cx="110" cy="660" r="10" fill="rgb(228, 38, 79)" class="animated2"/>
+  <circle cx="90" cy="620" r="10" fill="rgb(228, 38, 79)" class="animated3"/>
+
+  
+    </svg>
+</body>
+</html>

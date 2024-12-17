@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="task1XSLT.xsl"?>
+<store>
+<item>
+    <name>RTX 2024ti</name>
+    <price>100</price>
+</item>
+<item>
+    <name>Процессор intel ponos 9400F</name>
+    <price>600</price>
+</item>
+<item> 
+    <name>Клавиатура chernik 17 </name>
+    <price>500</price>
+</item>
+<item> 
+    <name> Игровая мышь Beloded ultra </name>
+    <price> 900</price>
+</item>
+<item> 
+    <name> Наушники undefined </name>
+    <price> 300</price>
+</item>
+</store>
