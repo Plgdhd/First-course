@@ -1,0 +1,7 @@
+﻿  main.cpp
+H:\Программы на С++\Лабораторная 13 ОАИП\lab 13 OAIP task 6 1\main.cpp(2,9): warning C4005: _CRT_SECURE_NO_WARNINGS: изменение макроопределения
+      H:\Программы на С++\Лабораторная 13 ОАИП\lab 13 OAIP task 6 1\main.cpp(2,9):
+      "_CRT_SECURE_NO_WARNINGS" ранее объявлен в командной строке
+  
+H:\Программы на С++\Лабораторная 13 ОАИП\lab 13 OAIP task 6 1\main.cpp(7,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab 13 OAIP task 6 1.vcxproj -> H:\Программы на С++\Лабораторная 13 ОАИП\lab 13 OAIP task 6 1\x64\Debug\lab 13 OAIP task 6 1.exe

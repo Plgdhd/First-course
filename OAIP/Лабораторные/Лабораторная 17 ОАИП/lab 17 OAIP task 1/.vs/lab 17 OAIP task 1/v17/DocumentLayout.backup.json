@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 17 \u041E\u0410\u0418\u041F\\lab 17 OAIP task 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD499AE-7B85-4D91-810C-A7BDBA184C5F}|..\\lab 17 OAIP task 4\\lab 17 OAIP task 4.vcxproj|H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 17 \u041E\u0410\u0418\u041F\\lab 17 OAIP task 4\\task4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A841E4F7-9150-4975-82B6-4214DA97A0D4}|..\\lab 17 OAIP task 3\\lab 17 OAIP task 3.vcxproj|H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 17 \u041E\u0410\u0418\u041F\\lab 17 OAIP task 3\\task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95BA86EC-8E40-4ACE-9C21-4F906E9049C5}|..\\lab 16 OAIP task 2\\lab 16 OAIP task 2.vcxproj|H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 17 \u041E\u0410\u0418\u041F\\lab 16 OAIP task 2\\task 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21E56BF-D9AC-4288-81DE-8ED17B7007F3}|lab 17 OAIP task 1.vcxproj|H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 17 \u041E\u0410\u0418\u041F\\lab 17 OAIP task 1\\mainn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B21E56BF-D9AC-4288-81DE-8ED17B7007F3}|lab 17 OAIP task 1.vcxproj|solutionrelative:mainn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task4.cpp",
+              "DocumentMoniker": "H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 17 \u041E\u0410\u0418\u041F\\lab 17 OAIP task 4\\task4.cpp",
+              "RelativeDocumentMoniker": "..\\lab 17 OAIP task 4\\task4.cpp",
+              "ToolTip": "H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 17 \u041E\u0410\u0418\u041F\\lab 17 OAIP task 4\\task4.cpp",
+              "RelativeToolTip": "..\\lab 17 OAIP task 4\\task4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T10:05:28.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task3.cpp",
+              "DocumentMoniker": "H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 17 \u041E\u0410\u0418\u041F\\lab 17 OAIP task 3\\task3.cpp",
+              "RelativeDocumentMoniker": "..\\lab 17 OAIP task 3\\task3.cpp",
+              "ToolTip": "H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 17 \u041E\u0410\u0418\u041F\\lab 17 OAIP task 3\\task3.cpp",
+              "RelativeToolTip": "..\\lab 17 OAIP task 3\\task3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T09:52:25.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "task 2.cpp",
+              "DocumentMoniker": "H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 17 \u041E\u0410\u0418\u041F\\lab 16 OAIP task 2\\task 2.cpp",
+              "RelativeDocumentMoniker": "..\\lab 16 OAIP task 2\\task 2.cpp",
+              "ToolTip": "H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 17 \u041E\u0410\u0418\u041F\\lab 16 OAIP task 2\\task 2.cpp",
+              "RelativeToolTip": "..\\lab 16 OAIP task 2\\task 2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T09:48:57.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mainn.cpp",
+              "DocumentMoniker": "H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 17 \u041E\u0410\u0418\u041F\\lab 17 OAIP task 1\\mainn.cpp",
+              "RelativeDocumentMoniker": "mainn.cpp",
+              "ToolTip": "H:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043D\u0430 \u0421\u002B\u002B\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F 17 \u041E\u0410\u0418\u041F\\lab 17 OAIP task 1\\mainn.cpp",
+              "RelativeToolTip": "mainn.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-01T09:44:45.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lab 12 OAIP task 5 2", "lab 12 OAIP task 5 2.vcxproj", "{E1CFA10E-1C2E-4A0D-8A1F-0EC659A6C1AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1CFA10E-1C2E-4A0D-8A1F-0EC659A6C1AF}.Debug|x64.ActiveCfg = Debug|x64
+		{E1CFA10E-1C2E-4A0D-8A1F-0EC659A6C1AF}.Debug|x64.Build.0 = Debug|x64
+		{E1CFA10E-1C2E-4A0D-8A1F-0EC659A6C1AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{E1CFA10E-1C2E-4A0D-8A1F-0EC659A6C1AF}.Debug|x86.Build.0 = Debug|Win32
+		{E1CFA10E-1C2E-4A0D-8A1F-0EC659A6C1AF}.Release|x64.ActiveCfg = Release|x64
+		{E1CFA10E-1C2E-4A0D-8A1F-0EC659A6C1AF}.Release|x64.Build.0 = Release|x64
+		{E1CFA10E-1C2E-4A0D-8A1F-0EC659A6C1AF}.Release|x86.ActiveCfg = Release|Win32
+		{E1CFA10E-1C2E-4A0D-8A1F-0EC659A6C1AF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55D8AA1C-8B99-4335-9D00-E90C9BEB68CF}
+	EndGlobalSection
+EndGlobal

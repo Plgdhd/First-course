@@ -1,0 +1,4 @@
+﻿  main.cpp
+H:\Программы на С++\Лабораторная 16 ОАИП\lab 16 OAIP task 4\main.cpp(5,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+H:\Программы на С++\Лабораторная 16 ОАИП\lab 16 OAIP task 4\main.cpp(47,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab 16 OAIP task 4.vcxproj -> H:\Программы на С++\Лабораторная 16 ОАИП\lab 16 OAIP task 4\x64\Debug\lab 16 OAIP task 4.exe

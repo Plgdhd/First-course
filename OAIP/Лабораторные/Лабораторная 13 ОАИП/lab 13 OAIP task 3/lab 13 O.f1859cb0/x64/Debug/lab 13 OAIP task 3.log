@@ -1,0 +1,4 @@
+﻿  main.cpp
+H:\Программы на С++\Лабораторная 13 ОАИП\lab 13 OAIP task 3\main.cpp(3,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+H:\Программы на С++\Лабораторная 13 ОАИП\lab 13 OAIP task 3\main.cpp(11,15): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  lab 13 OAIP task 3.vcxproj -> H:\Программы на С++\Лабораторная 13 ОАИП\lab 13 OAIP task 3\x64\Debug\lab 13 OAIP task 3.exe
